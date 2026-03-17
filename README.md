@@ -22,7 +22,7 @@ Source: [Kaggle] https://www.kaggle.com/datasets/ademylz/tmdb-5000-movies
 ## Project Structure
 - "movie_analysis.sql" : 6 exploratory queries covering revenue rankings, ROI by decade, language analysis and budget tiers
 - "movie_analysis.ipynb" : data cleaning, genre parsing and 4 visualizations
-- "dashboard_screenshot.png" : Power BI dashboard screenshot
+- "Dashboard Screenshot.png" : Power BI dashboard screenshot
 
 ## Dashboard Preview
 <img width="870" height="486" alt="image" src="https://github.com/user-attachments/assets/f05e0da5-9627-4400-bad1-8a859bd4af9d" />
